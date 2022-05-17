@@ -1,0 +1,32 @@
+2022-04-05 11:06:05,615 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-04-05 11:12:23,412 [Worker-8: Creating project "springiocmvnday2"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ai.jobiak.springioc:springiocmvnday2:0.0.1-SNAPSHOT @ C:\Users\Fresher\jee\Spring\springiocmvnday2\pom.xml.
+2022-04-05 11:12:24,344 [Worker-8: Creating project "springiocmvnday2"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springiocmvnday2/src/main/java
+2022-04-05 11:12:24,345 [Worker-8: Creating project "springiocmvnday2"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springiocmvnday2/src/main/resources
+2022-04-05 11:12:24,346 [Worker-8: Creating project "springiocmvnday2"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springiocmvnday2/src/test/java
+2022-04-05 11:12:24,347 [Worker-8: Creating project "springiocmvnday2"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springiocmvnday2/src/test/resources
+2022-04-05 11:12:24,988 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-05 11:12:24,991 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-05 11:12:24,992 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-05 11:12:24,993 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-05 11:16:05,735 [Worker-1: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-05 11:16:05,743 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-05 11:16:05,747 [Worker-1: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-05 11:16:05,748 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-05 11:19:48,425 [Worker-0: Creating project "springiocmvnday1"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ai.jobiak.springioc:springiocmvnday1:0.0.1-SNAPSHOT @ C:\Users\Fresher\jee\Spring\springiocmvnday1\pom.xml.
+2022-04-05 11:19:48,803 [Worker-0: Creating project "springiocmvnday1"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springiocmvnday1/src/main/java
+2022-04-05 11:19:48,804 [Worker-0: Creating project "springiocmvnday1"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springiocmvnday1/src/main/resources
+2022-04-05 11:19:48,806 [Worker-0: Creating project "springiocmvnday1"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springiocmvnday1/src/test/java
+2022-04-05 11:19:48,806 [Worker-0: Creating project "springiocmvnday1"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springiocmvnday1/src/test/resources
+2022-04-05 11:19:49,231 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-05 11:19:49,234 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-05 11:19:49,236 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-05 11:19:49,237 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-05 11:26:14,467 [Worker-12: Creating project "springiocmvnday35"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ai.jobiak.springioc:springiocmvnday35:0.0.1-SNAPSHOT @ C:\Users\Fresher\jee\Spring\springiocmvnday35\pom.xml.
+2022-04-05 11:26:14,876 [Worker-12: Creating project "springiocmvnday35"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springiocmvnday35/src/main/java
+2022-04-05 11:26:14,878 [Worker-12: Creating project "springiocmvnday35"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springiocmvnday35/src/main/resources
+2022-04-05 11:26:14,879 [Worker-12: Creating project "springiocmvnday35"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springiocmvnday35/src/test/java
+2022-04-05 11:26:14,880 [Worker-12: Creating project "springiocmvnday35"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springiocmvnday35/src/test/resources
+2022-04-05 11:26:15,301 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-05 11:26:15,304 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-05 11:26:15,306 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-05 11:26:15,307 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
